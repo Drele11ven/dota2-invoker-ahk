@@ -5,14 +5,18 @@ SetKeyDelay, 100, 50
 Send, e
 Send, e
 Send, e
+; Glepnier (item 3)
 Send, c
+; Shiva guard (item 5)
 Send, b
+; Invoke
 Send, r
 
-; Meteor (EEE + R + D)
+; Meteor (EEW + R + D)
 Send, w
 Send, r
 Send, d
+; Cataclysm 
 Send, {Alt down}f{Alt up}  ; hold Alt and press D
 
 ; Deafening Blast (QWE + R + F)
@@ -22,7 +26,7 @@ Send, e
 Send, r
 Send, d
 
-; Refresher (item 3)
+; Refresher (item 1)
 Send, {Space}
 
 ; Cataclysm (QQQ + R + T)
